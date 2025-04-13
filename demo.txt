@@ -18,5 +18,3 @@ for go to the previous changes - git command will be
 git revert "origin"
 
 git log - to know the previous changes 
-
-demo texttttttttt
