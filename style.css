@@ -95,7 +95,7 @@
     
   }
   
-  
+   
   .outer-top {
     transform: rotateX(90deg) translateZ(100px);
   }
@@ -118,7 +118,7 @@
   
   .outer-right {
     transform: rotateY(-90deg) translateZ(100px);
-  }
+  } 
 
   .inner-cube>div {
     position: absolute;
@@ -132,7 +132,7 @@
     width: 130px;
     height: 130px;
   }
-  
+ 
   .inner-top {
     transform: rotateX(90deg) translateZ(65px);
   }
@@ -156,8 +156,7 @@
   .inner-right {
     transform: rotateY(-90deg) translateZ(65px);
   }
-  
-  .cube:hover .outer-top {
+ .cube:hover .outer-top {
     right: -70px;
     bottom: -70px;
     opacity: 0.8;
@@ -183,7 +182,7 @@
     bottom: -70px;
     opacity: 0.8;
     transform: translateZ(-200px) rotateY(180deg);
-  }
+  } */
   
   #copy {
     position: fixed;
