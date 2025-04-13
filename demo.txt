@@ -5,3 +5,12 @@ this is secnd test for pull push practise
 this is 3rd test from joyh
 hgfhgvjhgjhgjk
 
+
+GIT COMMANDS - 
+1. git add .
+2. git commit -m "message"
+3. git push
+
+FOR PULL 
+1. git pull
+
