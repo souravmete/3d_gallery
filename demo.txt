@@ -14,3 +14,7 @@ GIT COMMANDS -
 FOR PULL 
 1. git pull
 
+for go to the previous changes - git command will be 
+git revert "origin"
+
+git log - to know the previous changes 
